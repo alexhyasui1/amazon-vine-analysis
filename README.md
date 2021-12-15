@@ -14,8 +14,8 @@ The first goal for this assignment will be to perform the ETL process completely
 
 Following Files are attached:
 
-1. <a href="https://github.com/kk-deng/Big-Data-Challenge/blob/main/level-1/Big_Data_Level_1.ipynb">Big_Data_Level_1.ipynb</a>: Level 1 ETL with **Software Reviews**
+1. <a href="https://github.com/alexhyasui1/big-data-challenge/blob/main/level_1/AWS_software.ipynb">AWS_software.ipynb</a>: Level 1 ETL with **Software Reviews**
 
-2. <a href="https://github.com/kk-deng/Big-Data-Challenge/blob/main/level-1/Big_Data_Level_1_2.ipynb">Big_Data_Level_1_2.ipynb</a>: Level 1 ETL with **Gift Card Reivews**
+2. <a href="https://github.com/alexhyasui1/big-data-challenge/blob/main/level_1/AWS_videogame.ipynb">AWS_videogame.ipynb</a>: Level 1 ETL with **Video Game Reivews**
 
-3. <a href="https://github.com/kk-deng/Big-Data-Challenge/blob/main/level-2/Big_Data_Level_2.ipynb">Big_Data_Level_2.ipynb</a>: Big Data Analysis on Vine Reviews
+3. <a href="https://github.com/alexhyasui1/big-data-challenge/blob/main/level_2/vine_review_analysis.ipynb">vine_review_analysis.ipynb</a>: Big Data Analysis on Vine Reviews
